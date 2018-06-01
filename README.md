@@ -4,8 +4,8 @@ Welcome to the HTML Basics unit!
 
 ## Preview
 
-In the next few lessons, we'll be introducing you to HTML (or, **H**yper**t**ext
-**M**arkup **L**anguage).
+In the next few lessons, we'll be introducing you to HTML (or, HyperText
+Markup Language).
 
 HTML is a _documentation-based_ technology. The word _documentation_ probably
 inspires a mental image of someone carrying heaps of papers, folders, files.
