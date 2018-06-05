@@ -4,7 +4,7 @@ Welcome to the HTML Basics unit!
 
 ## Preview
 
-In the next few lessons, we'll be introducing you to HTML (or, HyperText
+In the next few lessons, we'll be introducing you to HTML (HyperText
 Markup Language).
 
 HTML is a _documentation-based_ technology. The word _documentation_ probably
@@ -18,24 +18,21 @@ with professionals on the topic.
 
 We'll then proceed to a collaborative lab where you'll be guided in editing a
 simple HTML document. The point here is not to memorize the full detail of
-HTML's vocabulary, but to experience the joy and excitement of being able
+HTML's vocabulary, but to experience the joy and excitement of being able to
 adjust and customize HTML.
 
 After that, we'll learn a core set of HTML features that will enable you to create
 simple HTML documents with less-explicit guidance. Around this time, you'll then
-begin tying these discoveries together and will start generating your first
+begin tying these discoveries together and will start creating your first
 HTML documents.
 
 ## Repetition &amp; Getting Stuck
 
-In these lessons ahead, many of the ideas are intentionally repeated or are
-occasions for synthesis of understanding or review. Maybe you don't get
-"attributes" the first time you see them, but, after some hands-on experience,
-it makes sense the second time you see it.
+In the lessons ahead, many of the ideas are deliberately repeated. You might not 
+get "attributes" the first time you see them, but, after some hands-on experience,
+they'll makes sense the second time you see them.
 
 ## Beyond
 
 At the close of the unit, you'll be ready to learn a series of HTML expressions
-that will allow you to create a substantial web page. You'll be ready to join
-the population of HTML authors who are learning new expressions, techniques,
-and ideas!
+that will allow you to create a meaningful web page. 
