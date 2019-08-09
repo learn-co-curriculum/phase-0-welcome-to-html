@@ -26,6 +26,8 @@ simple HTML documents with less-explicit guidance. Around this time, you'll then
 begin tying these discoveries together and will start creating your first
 HTML documents.
 
+![Welcome to HTML](https://curriculum-content.s3.amazonaws.com/html-basics/welcome-to-html/Image_48_HTMLBannerGraphic.png)
+
 ## Repetition &amp; Getting Stuck
 
 In the lessons ahead, many of the ideas are deliberately repeated. You might not 
