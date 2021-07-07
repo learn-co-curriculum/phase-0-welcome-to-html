@@ -1,6 +1,4 @@
-# HTML Basics Overview
-
-Welcome to the HTML Basics unit!
+# Welcome to HTML
 
 ## Preview
 
